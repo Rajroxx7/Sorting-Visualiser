@@ -1,11 +1,12 @@
 body{
-  background-color: #04009a;
+  background-image: linear-gradient(RGB(102,255,178),RGB(102,102,255));
 }
 
 .heading{
   text-align: center;
-  color: #FFF;
+  color: #11324D;
   padding-top: 1.5rem;
+  font-weight: bold;
 }
 
 #bars{
@@ -20,7 +21,7 @@ body{
 }
 
 #size, #speed{
-  color: #FFF;
+  color: #11324D;
   font-size: 1.5rem;
   font-weight: bold;
 }
